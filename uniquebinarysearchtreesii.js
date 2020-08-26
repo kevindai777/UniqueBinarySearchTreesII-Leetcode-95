@@ -1,4 +1,4 @@
-//
+//Objective is to return all valid BST's given 'n' nodes in a tree
 
 class Node {
     constructor(val, left, right) {
